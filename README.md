@@ -16,6 +16,6 @@
 <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoraNz&layout=compact&hide_border=true&title_color=596087&text_color=ffffff&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IagoraNz&bg_color=0d1117&color=9c9c9c&line=596087&point=596087&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IagoraNz&bg_color=0d1117&color=ffffff&line=596087&point=596087&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=596087&height=120&section=footer"/>
