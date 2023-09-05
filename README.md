@@ -18,6 +18,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IagoraNz&bg_color=0d1117&color=ffffff&line=596087&point=596087&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=596087&height=120&section=footer"/>
-
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=596087&height=120&section=footer"/>
