@@ -4,7 +4,7 @@
 
 > **Técnico em Eletrotécnica - IFPI, Campus Picos**
 
-> **Bacharelando em Sistemas de Informação - UFPI CSHNB**
+> **Bacharelando em Sistemas de Informação - UFPI, CSHNB**
 
 ## Skills 
 
