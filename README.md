@@ -6,7 +6,7 @@
 
 > **Bacharelando em Sistemas de Informação - UFPI, CSHNB**
 
-# Skills 
+## Skills 
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -14,7 +14,7 @@
   </a>
 </p>
 
-# Informações sobre minha conta GitHub
+## Informações sobre minha conta GitHub
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IagoraNz&show_icons=true&count_private-true&hide_border=true&title_color=596087&icon_color=596087&text_color=ffffff&bg_color=0d1117" alt=Iago Roberto Github Stats" />
 <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoraNz&layout=compact&hide_border=true&title_color=596087&text_color=ffffff&bg_color=0d1117" />
