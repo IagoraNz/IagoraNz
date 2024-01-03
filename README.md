@@ -30,7 +30,7 @@
 
 ***Linguagem preferida:*** JavaScript
 
-***Commits:*** 139
+***Commits:*** 165
 
 ***Forks:*** 1
 
