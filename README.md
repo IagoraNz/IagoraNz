@@ -26,7 +26,7 @@
 
 ***Interesses:*** Back-end, Inteligência Artificial, Machine Learning e Sistemas Distribuídos
 
-***Linguagem de maior afindade:*** C
+***Linguagem de maior afinidade:*** C
 
 ***Linguagem preferida:*** JavaScript
 
