@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Staatliches&size=35&pause=1000&color=761fff&vCenter=true&center=true&width=1000&lines=Iago+Roberto;Information+Systems+Student;Federal+University+of+Piau%C3%AD;Software+Developer)](https://git.io/typing-svg)
 
-<img align="right" height="390em" src="https://raw.githubusercontent.com/gist/IagoraNz/38303f3586ca3d5909fae36466c85407/raw/23c4904f5278aa3adf8a37d4b54907b0c31857d6/githubcard.svg"/>
+<img align="right" height="490em" src="https://raw.githubusercontent.com/gist/IagoraNz/38303f3586ca3d5909fae36466c85407/raw/23c4904f5278aa3adf8a37d4b54907b0c31857d6/githubcard.svg"/>
 
 > **Técnico em Eletrotécnica - IFPI, Campus Picos**
 
