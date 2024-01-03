@@ -8,7 +8,7 @@
 
 > **Bacharelando em Sistemas de Informação - UFPI, CSHNB**
 
-## Skills <img align="center" height="30em" src="https://raw.githubusercontent.com/gist/IagoraNz/38303f3586ca3d5909fae36466c85407/raw/1ca00ebbc363c8c84b5d7ae6d4ceed66136ca400/githubcard.svg"/>
+## Skills <img align="center" height="30em" src="https://raw.githubusercontent.com/gist/IagoraNz/c870bc1b287acc740d77c329550f99f0/raw/6c1fd0fb50e06e05f410e8a264acf1ccc625430a/img.svg"/>
 
 <p align="left">
   <a href="https://skillicons.dev">
