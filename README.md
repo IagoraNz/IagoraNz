@@ -2,13 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Staatliches&size=35&pause=1000&color=761fff&vCenter=true&center=true&width=1000&lines=Iago+Roberto;Information+Systems+Student;Federal+University+of+Piau%C3%AD;Software+Developer)](https://git.io/typing-svg)
 
-<img align="right" height="490em" src="https://raw.githubusercontent.com/gist/IagoraNz/38303f3586ca3d5909fae36466c85407/raw/23c4904f5278aa3adf8a37d4b54907b0c31857d6/githubcard.svg"/>
+<img align="right" height="490em" src="https://raw.githubusercontent.com/gist/IagoraNz/38303f3586ca3d5909fae36466c85407/raw/b7255eeadcdb9110bf43e5492a35d2fe1712166f/githubcard.svg"/>
 
 > **Técnico em Eletrotécnica - IFPI, Campus Picos**
 
 > **Bacharelando em Sistemas de Informação - UFPI, CSHNB**
 
-## Skills <img align="center" height="30em" src="https://raw.githubusercontent.com/gist/IagoraNz/c870bc1b287acc740d77c329550f99f0/raw/6c1fd0fb50e06e05f410e8a264acf1ccc625430a/img.svg"/>
+## Skills <img align="center" height="30em" src="https://raw.githubusercontent.com/gist/IagoraNz/38303f3586ca3d5909fae36466c85407/raw/1ca00ebbc363c8c84b5d7ae6d4ceed66136ca400/githubcard.svg"/>
 
 <p align="left">
   <a href="https://skillicons.dev">
