@@ -16,7 +16,7 @@
   </a>
 </p>
 
-## Informações sobre minha conta GitHub <img align="center" height="30em" src="https://raw.githubusercontent.com/gist/IagoraNz/c870bc1b287acc740d77c329550f99f0/raw/6c1fd0fb50e06e05f410e8a264acf1ccc625430a/img.svg"/>
+## Informações sobre mim <img align="center" height="30em" src="https://raw.githubusercontent.com/gist/IagoraNz/c870bc1b287acc740d77c329550f99f0/raw/6c1fd0fb50e06e05f410e8a264acf1ccc625430a/img.svg"/>
 
 <img align="left" height="290em" src="https://raw.githubusercontent.com/gist/IagoraNz/c870bc1b287acc740d77c329550f99f0/raw/1ceca206f1e0950b530aad71f0476b22a4fff76a/img.svg"/>
 
@@ -24,7 +24,7 @@
 
 ***Idade:*** 20
 
-***Interesses:*** Back-end, Inteligência Artificial, Machine Learning e Sistemas Distribuídos
+***Interesses:*** Back-end, Inteligência Artificial e Sistemas Distribuídos
 
 ***Linguagem de maior afindade:*** C
 
