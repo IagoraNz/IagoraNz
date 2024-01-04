@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=761fff&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5d00cc&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Staatliches&size=35&pause=1000&color=761fff&vCenter=true&center=true&width=1000&lines=Iago+Roberto;Information+Systems+Student;Federal+University+of+Piau%C3%AD;Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Staatliches&size=35&pause=1000&color=5d00cc&vCenter=true&center=true&width=1000&lines=Iago+Roberto;Information+Systems+Student;Federal+University+of+Piau%C3%AD;Software+Developer)](https://git.io/typing-svg)
 
 <img align="right" height="490em" src="https://raw.githubusercontent.com/gist/IagoraNz/38303f3586ca3d5909fae36466c85407/raw/b7255eeadcdb9110bf43e5492a35d2fe1712166f/githubcard.svg"/>
 
@@ -34,4 +34,9 @@
 
 ***Forks:*** 1
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=761fff&height=120&section=footer"/>
+
+## Gráfico de Commits <img align="center" height="30em" src="https://raw.githubusercontent.com/gist/IagoraNz/c870bc1b287acc740d77c329550f99f0/raw/6c1fd0fb50e06e05f410e8a264acf1ccc625430a/img.svg"/>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IagoraNz&bg_color=0d1117&color=dbdbdb&line=40068c&point=40068c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5d00cc&height=120&section=footer"/>
