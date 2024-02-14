@@ -29,7 +29,7 @@
 
 ***Language of highest affinity:*** C
 
-***Preferred language:*** JavaScript
+***Preferred language:*** Dart/Flutter
 
 ***College period:*** 2/8
 
