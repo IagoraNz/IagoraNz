@@ -6,8 +6,6 @@
 
 > **Bachelor's Degree in Information Systems - UFPI, CSHNB**
 
-> **E-mail: iago.almeida@ufpi.edu.br** 
-
 ## Skills <img align="center" height="30em" src="https://raw.githubusercontent.com/gist/IagoraNz/c870bc1b287acc740d77c329550f99f0/raw/6c1fd0fb50e06e05f410e8a264acf1ccc625430a/img.svg"/>
 
 > **Respectively: C, Flutter, Dart, HTML, CSS, JavaScript, Visual Studio Code**
