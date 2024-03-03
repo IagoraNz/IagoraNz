@@ -25,7 +25,7 @@
 
 ***Age:*** 20
 
-***Interests:*** Back-end, Full-Stack, Artificial Intelligence, Distributed Systems and others
+***Interests:*** Back-end, Full-Stack, Artificial Intelligence, Distributed Systems, Mobile Development and others
 
 ***Language of highest affinity:*** C
 
