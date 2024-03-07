@@ -31,7 +31,7 @@
 
 ***Preferred language:*** Dart/Flutter
 
-***College period:*** 2/8
+***College period:*** 3/8
 
 ***Acting:*** In university research labs
 
