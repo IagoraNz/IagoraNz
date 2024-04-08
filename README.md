@@ -35,10 +35,6 @@
 
 ***Acting:*** In university research labs
 
-## Commits Graph <img align="center" height="30em" src="https://raw.githubusercontent.com/gist/IagoraNz/c870bc1b287acc740d77c329550f99f0/raw/6c1fd0fb50e06e05f410e8a264acf1ccc625430a/img.svg"/>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IagoraNz&bg_color=0d1117&color=dbdbdb&line=825cff&point=825cff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## Statistic <img align="center" height="30em" src="https://raw.githubusercontent.com/gist/IagoraNz/c870bc1b287acc740d77c329550f99f0/raw/6c1fd0fb50e06e05f410e8a264acf1ccc625430a/img.svg"/>
 
 <div align="center">
