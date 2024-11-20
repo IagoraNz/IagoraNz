@@ -8,10 +8,10 @@
 
 ## Skills <img align="center" height="30em" src="https://raw.githubusercontent.com/gist/IagoraNz/c870bc1b287acc740d77c329550f99f0/raw/6c1fd0fb50e06e05f410e8a264acf1ccc625430a/img.svg"/>
 
-> **Respectively: C, Python, HTML, CSS, JavaScript, Visual Studio Code, Git, Docker, AWS**
+> **Respectively: C, Python, HTML, CSS, JavaScript, Visual Studio Code, Git, Docker, AWS, Flask**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,html,css,js,vscode,git,docker,aws" />
+    <img src="https://skillicons.dev/icons?i=c,python,html,css,js,vscode,git,docker,aws,flask" />
   </a>
 </p>
 
