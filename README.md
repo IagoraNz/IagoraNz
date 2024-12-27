@@ -31,9 +31,9 @@
 
 ***Preferred language:*** Dart/Flutter
 
-***College period:*** 3/8
+***College period:*** 4/8
 
-***Acting:*** In university research labs
+***Acting:*** Applied Research Laboratory in Distributed Systems
 
 ## Statistic <img align="center" height="30em" src="https://raw.githubusercontent.com/gist/IagoraNz/c870bc1b287acc740d77c329550f99f0/raw/6c1fd0fb50e06e05f410e8a264acf1ccc625430a/img.svg"/>
 
