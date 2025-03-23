@@ -6,12 +6,21 @@
 
 > **Bachelor's Degree in Information Systems - UFPI, CSHNB**
 
-## Skills <img align="center" height="30em" src="https://raw.githubusercontent.com/gist/IagoraNz/c870bc1b287acc740d77c329550f99f0/raw/6c1fd0fb50e06e05f410e8a264acf1ccc625430a/img.svg"/>
+## Strong Skills <img align="center" height="30em" src="https://raw.githubusercontent.com/gist/IagoraNz/c870bc1b287acc740d77c329550f99f0/raw/6c1fd0fb50e06e05f410e8a264acf1ccc625430a/img.svg"/>
 
-> **Respectively: C, Python, HTML, CSS, JavaScript, Visual Studio Code, Git, Docker, AWS, Flask, Figma**
+> **Respectively: C, Python, Visual Studio Code, Git, AWS, Figma**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,html,css,js,vscode,git,docker,aws,flask,figma" />
+    <img src="https://skillicons.dev/icons?i=c,python,vscode,git,aws,figma" />
+  </a>
+</p>
+
+## Other Skills <img align="center" height="30em" src="https://raw.githubusercontent.com/gist/IagoraNz/c870bc1b287acc740d77c329550f99f0/raw/6c1fd0fb50e06e05f410e8a264acf1ccc625430a/img.svg"/>
+
+> **Respectively: HTML, CSS, JavaScript, Docker, Flask, Redis, Nest.js**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,docker,flask,redis,nest" />
   </a>
 </p>
 
@@ -31,7 +40,7 @@
 
 ***Preferred language:*** Dart/Flutter
 
-***College period:*** 4/8
+***College period:*** 5/8
 
 ***Acting:*** Applied Research Laboratory in Distributed Systems
 
