@@ -32,13 +32,13 @@
 
 **From:** Piauí, Brazil
 
-***Age:*** 20
+***Age:*** 21
 
 ***Interests:*** Back-end, Full-Stack, Artificial Intelligence, Distributed Systems, Mobile Development and others
 
 ***Language of highest affinity:*** C
 
-***Preferred language:*** Dart/Flutter
+***Preferred language:*** JavaScript
 
 ***College period:*** 5/8
 
