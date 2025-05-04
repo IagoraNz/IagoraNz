@@ -8,19 +8,19 @@
 
 ## Strong Skills <img align="center" height="40em" src="https://github.com/user-attachments/assets/fc38addf-2cfd-4371-97ec-950a0a7efae3"/>
 
-> **Respectively: C, Python, Visual Studio Code, Git, AWS, Figma**
+> **Respectively: C, Python, Visual Studio Code, Git, AWS, Figma, Docker**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,vscode,git,aws,figma" />
+    <img src="https://skillicons.dev/icons?i=c,python,vscode,git,aws,figma,docker" />
   </a>
 </p>
 
 ## Other Skills <img align="center" height="40em" src="https://github.com/user-attachments/assets/fc38addf-2cfd-4371-97ec-950a0a7efae3"/>
 
-> **Respectively: HTML, CSS, JavaScript, Docker, Flask, Redis, Nest.js**
+> **Respectively: HTML, CSS, JavaScript, Flask, Redis, Nest.js**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,docker,flask,redis,nest" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,flask,redis,nest" />
   </a>
 </p>
 
