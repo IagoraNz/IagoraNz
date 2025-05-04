@@ -1,12 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=825cff&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50625C&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Staatliches&size=35&pause=1000&color=825cff&vCenter=true&center=true&width=1000&lines=Iago+Roberto;Information+Systems+Student;Federal+University+of+Piau%C3%AD;Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Staatliches&size=35&pause=1000&color=50625C&vCenter=true&center=true&width=1000&lines=Iago+Roberto;Information+Systems+Student;Federal+University+of+Piau%C3%AD;Software+Developer)](https://git.io/typing-svg)
 
 > **Electrical Technician - IFPI, Campus Picos**
 
 > **Bachelor's Degree in Information Systems - UFPI, CSHNB**
 
-## Strong Skills <img align="center" height="30em" src="https://raw.githubusercontent.com/gist/IagoraNz/c870bc1b287acc740d77c329550f99f0/raw/6c1fd0fb50e06e05f410e8a264acf1ccc625430a/img.svg"/>
+## Strong Skills <img align="center" height="40em" src="https://github.com/user-attachments/assets/fc38addf-2cfd-4371-97ec-950a0a7efae3"/>
 
 > **Respectively: C, Python, Visual Studio Code, Git, AWS, Figma**
 <p align="left">
@@ -15,7 +15,7 @@
   </a>
 </p>
 
-## Other Skills <img align="center" height="30em" src="https://raw.githubusercontent.com/gist/IagoraNz/c870bc1b287acc740d77c329550f99f0/raw/6c1fd0fb50e06e05f410e8a264acf1ccc625430a/img.svg"/>
+## Other Skills <img align="center" height="40em" src="https://github.com/user-attachments/assets/fc38addf-2cfd-4371-97ec-950a0a7efae3"/>
 
 > **Respectively: HTML, CSS, JavaScript, Docker, Flask, Redis, Nest.js**
 <p align="left">
@@ -24,9 +24,9 @@
   </a>
 </p>
 
-## About Me <img align="center" height="30em" src="https://raw.githubusercontent.com/gist/IagoraNz/c870bc1b287acc740d77c329550f99f0/raw/6c1fd0fb50e06e05f410e8a264acf1ccc625430a/img.svg"/>
+## About Me <img align="center" height="40em" src="https://github.com/user-attachments/assets/fc38addf-2cfd-4371-97ec-950a0a7efae3"/>
 
-<img align="left" height="320em" src="https://raw.githubusercontent.com/gist/IagoraNz/38303f3586ca3d5909fae36466c85407/raw/9dff4444743a0d6de503bb59271b94f118af6ad2/githubcard.svg"/>
+<img align="left" height="320em" src="https://github.com/user-attachments/assets/1ec51823-48b7-40b0-9b27-37f4c5cd0fe9"/>
 
 ***Name:*** Iago Roberto
 
@@ -44,11 +44,11 @@
 
 ***Acting:*** Applied Research Laboratory in Distributed Systems
 
-## Statistic <img align="center" height="30em" src="https://raw.githubusercontent.com/gist/IagoraNz/c870bc1b287acc740d77c329550f99f0/raw/6c1fd0fb50e06e05f410e8a264acf1ccc625430a/img.svg"/>
+## Statistic <img align="center" height="40em" src="https://github.com/user-attachments/assets/fc38addf-2cfd-4371-97ec-950a0a7efae3"/>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IagoraNZ&show_icons=true&count_private=true&hide_border=true&title_color=825cff&icon_color=825cff&text_color=ffffff&bg_color=0d1117" alt="Iago Roberto Github Stats" />
-  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoraNz&layout=compact&hide_border=true&title_color=825cff&text_color=ffffff&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IagoraNZ&show_icons=true&count_private=true&hide_border=true&title_color=50625c&icon_color=50625C&text_color=ffffff&bg_color=0d1117" alt="Iago Roberto Github Stats" />
+  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoraNz&layout=compact&hide_border=true&title_color=50625C&text_color=ffffff&bg_color=0d1117" />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=825cff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50625C&height=120&section=footer"/>
