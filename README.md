@@ -40,9 +40,9 @@
 
 ***Preferred language:*** JavaScript
 
-***College period:*** 5/8
+***College period:*** 6/8
 
-***Acting:*** Applied Research Laboratory in Distributed Systems
+***Acting:*** Project Management Director at Juá - Technology Solutions and researcher at Applied Research Laboratory in Distributed Systems (PASID) 
 
 ## Statistic <img align="center" height="40em" src="https://github.com/user-attachments/assets/fc38addf-2cfd-4371-97ec-950a0a7efae3"/>
 
