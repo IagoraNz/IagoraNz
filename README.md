@@ -47,7 +47,6 @@
 ## Statistic <img align="center" height="40em" src="https://github.com/user-attachments/assets/fc38addf-2cfd-4371-97ec-950a0a7efae3"/>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IagoraNZ&show_icons=true&count_private=true&hide_border=true&title_color=50625c&icon_color=50625C&text_color=ffffff&bg_color=0d1117" alt="Iago Roberto Github Stats" />
   <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoraNz&layout=compact&hide_border=true&title_color=50625C&text_color=ffffff&bg_color=0d1117" />
 </div>
 
