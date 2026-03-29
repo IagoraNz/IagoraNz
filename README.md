@@ -40,7 +40,7 @@
 
 ***Preferred language:*** JavaScript
 
-***College period:*** 6/8
+***College period:*** 7/8
 
 ***Acting:*** Project Management Director at Juá - Technology Solutions and researcher at Applied Research Laboratory in Distributed Systems (PASID) 
 
