@@ -6,7 +6,7 @@
 
 > **Bachelor's Degree in Information Systems - UFPI, CSHNB**
 
-> > **Master's Degree in Computer Science - UFPI, CSHNB**
+> **Master's Degree in Computer Science - UFPI, CSHNB**
 
 ## Strong Skills <img align="center" height="40em" src="https://github.com/user-attachments/assets/fc38addf-2cfd-4371-97ec-950a0a7efae3"/>
 
